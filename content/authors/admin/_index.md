@@ -64,7 +64,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-[- Visitors]
+- Visitors
 ---
 
 I am a Postdoctor of system biology at the Teaching and Research Division of School of Chinese Medicine, Hong Kong Baptist University and at the HKBU Shenzhen Institute of Research and Continuing Education. I earned my PhD in Fermentation Engineering from South China University of Technology, China and my BSc of Biotechnology from Henan Agricultural University, China. 
