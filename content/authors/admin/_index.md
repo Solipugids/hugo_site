@@ -19,8 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - System Biology
 - Synthetic Biology
-- Gene regulation network
-- Gut microbiome
+- Gene Regulation Network
+- Gut Microbiome
 
 education:
   courses:
