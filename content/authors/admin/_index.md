@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: WANG Chao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctor of System Biology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hong Kong Baptist Univesity
+  url: "www.hkbu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- System Biology
+- Synthetic Biology
+- Gene regulation network
+- Gut microbiome
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in 
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -57,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "caedmon.wang@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
