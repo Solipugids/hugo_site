@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Survey of protein-DNA interactions in *Aspergillus oryzae* on a genomic scale"
+title: "Survey of protein-DNA interactions in Aspergillus oryzae on a genomic scale"
 authors: [Chao Wang, Yangyong Lv, Bin Wang, Chao Yin, Ying Lin, Li Pan]
 date: 2015-05-19
-doi: "https://doi.org/10.1093/nar/gkv334"
+doi: "10.1093/nar/gkv334"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-03T16:13:50+08:00
