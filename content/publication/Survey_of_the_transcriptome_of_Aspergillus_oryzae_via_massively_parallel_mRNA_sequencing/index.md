@@ -3,7 +3,7 @@
 
 title: "Survey of the transcriptome of Aspergillus oryzae via massively parallel mRNA sequencing"
 authors: [Bin Wang, Guangwu Guo, Chao Wang, Ying Lin, Xiaoning Wang, Mouming Zhao, Yong Guo, Minghui He, Yong Zhang, Li Pan]
-date: 2020-12-01T15:26:53+08:00
+date: 2010-08-01
 doi: "10.1093/nar/gkq256"
 
 # Schedule page publish date (NOT publication's date).
