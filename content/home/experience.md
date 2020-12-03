@@ -35,7 +35,6 @@ date_format = "Jan 2006"
   location = "Hong Kong SAR"
   date_start = "2014-01-14"
   date_end = "2015-09-31"
-  description = """
-  test
-  """
-++++
+  description = """test"""
+
++++
