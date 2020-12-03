@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Hong Kong SAR"
   date_start = "2015-10-01"
   date_end = ""
-  description = 
+  description = ""
 
 [[experience]]
   title = "Senior Research Assistant"
@@ -33,5 +33,5 @@ date_format = "Jan 2006"
   location = "Hong Kong SAR"
   date_start = "2014-01-14"
   date_end = "2015-09-31"
-  description = 
+  description = ""
 +++
