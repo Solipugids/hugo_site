@@ -19,26 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior Research Assistant"
-  company = "Hong Kong Baptist University"
-  company_url = "www.hkbu.edu.hk"
+  company = "Department of Computer Science, Hong Kong Baptist University"
+  company_url = "comp.hkbu.edu.hk"
   location = "Hong Kong SAR, China"
   date_start = "2014-01-14"
   date_end = "2015-09-30"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctor Fellow"
+  company = "School of Chinese Medicine, Hong Kong Baptist University"
+  company_url = "scm.hkbu.edu.hk"
+  location = "Hong Kong SAR, China"
+  date_start = "2015-10-01"
+  date_end = ""
+  description = """
+  System Biology:
+  
+  * CRISPR
+  * Noise
+  """
 
 +++
