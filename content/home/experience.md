@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "www.hkbu.edu.hk"
   location = "Hong Kong SAR, China"
   date_start = "2014-01-14"
-  date_end = "2015-09-31"
+  date_end = "2015-09-30"
   description = """
   Responsibilities include:
   
