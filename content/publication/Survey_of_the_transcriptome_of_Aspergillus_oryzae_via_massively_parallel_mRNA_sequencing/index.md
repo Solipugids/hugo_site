@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Nucleic Acids Research"
-publication_short: ""
+publication_short: "NUCLEIC ACIDS RES"
 
 abstract: "*Aspergillus oryzae*, an important filamentous fungus used in food fermentation and the enzyme industry, has been shown through genome sequencing and various other tools to have prominent features in its genomic composition. However, the functional complexity of the A. oryzae transcriptome has not yet been fully elucidated. Here, we applied direct high-throughput paired-end RNA-sequencing (RNA-Seq) to the transcriptome of A. oryzae under four different culture conditions. With the high resolution and sensitivity afforded by RNA-Seq, we were able to identify a substantial number of novel transcripts, new exons, untranslated regions, alternative upstream initiation codons and upstream open reading frames, which provide remarkable insight into the A. oryzae transcriptome. We were also able to assess the alternative mRNA isoforms in A. oryzae and found a large number of genes undergoing alternative splicing. Many genes and pathways that might be involved in higher levels of protein production in solid-state culture than in liquid culture were identified by comparing gene expression levels between different cultures. Our analysis indicated that the transcriptome of A. oryzae is much more complex than previously anticipated, and these results may provide a blueprint for further study of the A. oryzae transcriptome."
 

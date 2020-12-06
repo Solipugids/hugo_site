@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Nucleic Acids Research"
-publication_short: ""
+publication_short: "NUCLEIC ACIDS RES
 
 abstract: "The genome-scale delineation of *in vivo* protein–DNA interactions is key to understanding genome function. Only ~5% of transcription factors (TFs) in the *Aspergillus* genus have been identified using traditional methods. Although the Aspergillus oryzae genome contains >600 TFs, knowledge of the *in vivo* genome-wide TF-binding sites (TFBSs) in aspergilli remains limited because of the lack of high-quality antibodies. We investigated the landscape of in vivo protein–DNA interactions across the A. oryzae genome through coupling the DNase I digestion of intact nuclei with massively parallel sequencing and the analysis of cleavage patterns in protein–DNA interactions at single-nucleotide resolution. The resulting map identified overrepresented de novo TF-binding motifs from genomic footprints, and provided the detailed chromatin remodeling patterns and the distribution of digital footprints near transcription start sites. The TFBSs of 19 known Aspergillus TFs were also identified based on DNase I digestion data surrounding potential binding sites in conjunction with TF binding specificity information. We observed that the cleavage patterns of TFBSs were dependent on the orientation of TF motifs and independent of strand orientation, consistent with the DNA shape features of binding motifs with flanking sequences."
 

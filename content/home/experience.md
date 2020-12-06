@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Research Assistant"
   company = "Department of Computer Science, Hong Kong Baptist University"
-  company_url = "https://comp.hkbu.edu.hk/"
+  company_url = "https://www.comp.hkbu.edu.hk/"
   location = "Hong Kong SAR, China"
   date_start = "2014-01-14"
   date_end = "2015-09-30"
