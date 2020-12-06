@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ""
-event:
+title: "Inference of phosphopeptide binding affinity from 14-3-3s by QSAR based prediction"
+event: "The 19th International Conference on Bioinformatics 2020"
 event_url: "https://incob.apbionet.org/incob20/"
 location: "Virtually"
 address:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-26
+date: 2020-11-25
 date_end: 2020-11-29
 all_day: false
 
