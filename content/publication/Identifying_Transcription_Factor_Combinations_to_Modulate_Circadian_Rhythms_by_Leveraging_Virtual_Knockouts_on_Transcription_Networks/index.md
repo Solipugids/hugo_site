@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Identifying Transcription Factor Combinations to Modulate Circadian Rhythms by Leveraging Virtual Knockouts on Transcription Networks"
-authors: [Debajyoti Chowdhury, Chao Wang, Aiping Lu, Hailong Zhu]
+authors: [Debajyoti Chowdhury*, Chao Wang*, Aiping Lu, Hailong Zhu]
 date: 2020-09-25
 doi: "10.1016/j.isci.2020.101490"
 
@@ -16,8 +16,8 @@ publishDate: 2020-12-06T16:00:36+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "iScience"
-publication_short: "ISCIENCE"
+publication: "*iScience*"
+publication_short: ""
 
 abstract: "The mammalian circadian systems consist of indigenous, self-sustained 24-h rhythm generators. They comprise many genes, molecules, and regulators. To decode their systematic controls, a robust computational approach was employed. It integrates transcription-factor-occupancy and time-series gene-expression data as input. The model equations were constructed and solved to determine the transcriptional regulatory logics in the mouse transcriptome network. This hypothesizes to explore the underlying mechanisms of combinatorial transcriptional regulations for circadian rhythms in mouse. We reconstructed the quantitative transcriptional-regulatory networks for circadian gene regulation at a dynamic scale. Transcriptional-simulations with virtually knocked-out mutants were performed to estimate their influence on networks. The potential transcriptional-regulators-combinations modulating the circadian rhythms were identified. Of them, CLOCK/CRY1 double knockout preserves the highest modulating capacity. Our quantitative framework offers a quick, robust, and physiologically relevant way to characterize the druggable targets to modulate the circadian rhythms at a dynamic scale effectively."
 

@@ -16,8 +16,8 @@ publishDate: 2020-12-03T22:05:58+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biomaterials"
-publication_short: "BIOMATERIALS"
+publication: "*Biomaterials*"
+publication_short: ""
 
 abstract: "Osteosarcoma (OS) is a highly aggressive pediatric cancer, characterized by frequent lung metastasis and pathologic bone destruction. Vascular endothelial growth factor A (VEGFA), highly expressed in OS, not only contributes to angiogenesis within the tumor microenvironment via paracrine stimulation of vascular endothelial cells, but also acts as an autocrine survival factor for tumor cell themselves, thus making it a promising therapeutic target for OS. CRISPR/Cas9 is a versatile genome editing technology and holds tremendous promise for cancer treatment. However, a major bottleneck to achieve the therapeutic potential of the CRISPR/Cas9 is the lack of in vivo tumor-targeted delivery systems. Here, we screened an OS cell-specific aptamer (LC09) and developed a LC09-functionalized PEG-PEI-Cholesterol (PPC) lipopolymer encapsulating CRISPR/Cas9 plasmids encoding VEGFA gRNA and Cas9. Our results demonstrated that LC09 facilitated selective distribution of CRISPR/Cas9 in both orthotopic OS and lung metastasis, leading to effective VEGFA genome editing in tumor, decreased VEGFA expression and secretion, inhibited orthotopic OS malignancy and lung metastasis, as well as reduced angiogenesis and bone lesion with no detectable toxicity. The delivery system simultaneously restrained autocrine and paracrine VEGFA signaling in tumor cells and could facilitate translating CRISPR-Cas9 into clinical cancer treatment."
 
