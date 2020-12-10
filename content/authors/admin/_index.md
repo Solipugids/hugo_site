@@ -12,6 +12,8 @@ role: Postdoctor of System Biology
 organizations:
 - name: Hong Kong Baptist Univesity
   url: "www.hkbu.edu.hk"
+- name: HKBU Shenzhen Institute of Research and Continuing Education
+  url: "szrc.hkbu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

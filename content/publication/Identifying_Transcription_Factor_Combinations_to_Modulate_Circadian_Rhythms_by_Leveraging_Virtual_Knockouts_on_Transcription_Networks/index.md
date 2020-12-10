@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Identifying Transcription Factor Combinations to Modulate Circadian Rhythms by Leveraging Virtual Knockouts on Transcription Networks"
-authors: [Debajyoti Chowdhury*, Chao Wang*, Aiping Lu, Hailong Zhu]
+authors: [Debajyoti Chowdhury*, Chao Wang*, Aiping Lyu, Hailong Zhu]
 date: 2020-09-25
 doi: "10.1016/j.isci.2020.101490"
 
