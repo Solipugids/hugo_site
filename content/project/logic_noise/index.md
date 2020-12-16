@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Github
-  url: https://github.com/Solipugids/gene_expression_models
+  url: "https://github.com/Solipugids/gene_expression_models.git"
   icon_pack: fab
   icon: github
 
