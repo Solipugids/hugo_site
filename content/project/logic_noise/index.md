@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Github
-  url: https://github.com/PYangLab/PhosR
+  url: 'https://github.com/PYangLab/PhosR'
   icon_pack: fab
   icon: github
 
