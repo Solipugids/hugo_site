@@ -3,7 +3,7 @@
 
 title: "Development of predictive QSAR models on the phosphopeptide binding affinity against 14-3-3 isoforms"
 summary: ""
-authors: []
+authors: [Chao Wang]
 tags: []
 categories: []
 date: 2019-03-01
@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Github
-   url: https://github.com/Solipugids/14-3-3affinity.git
+   url: https://github.com/Solipugids/14-3-3affinity
    icon_pack: fab
    icon: github
 
