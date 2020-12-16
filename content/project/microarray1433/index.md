@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Github
-   url: 'https://github.com/Solipugids/14-3-3affinity'
+   url: 'https://github.com/Solipugids/14-3-3affinity.git'
    icon_pack: fab
    icon: github
 
