@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Github
+   url: https://github.com/Solipugids/gene_expression_models.git
+   icon_pack: fab
+   icon: github
 
 url_code: ""
 url_pdf: ""
