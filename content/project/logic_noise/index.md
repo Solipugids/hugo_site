@@ -2,9 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A mechanistic study on role of combinatorial gene regulation in controlling gene expression noise through direct observation on the transcriptional activities in single cells."
-summary: ""
+summary: "In this project, we plan to examine the role and mechanism of combinatorial gene regulation in modulating transcriptional noise in bacteria. We started by formulating a single-TF model that can describe transcriptional bursting in single bacterial cells. Next, we extended the single- TF model to the two-TFs model by introducing combinatorial logic to represent the interactions between TFs. Then, based on the models and recent experimental findings, we generated three hypotheses to interrogate the influences of combinatorial gene regulation on gene expression noise."
 authors: [Chao Wang]
-tags: []
+tags: 
+- combinatorial regulation
+- gene expression noise
+- transcriptional activities
 categories: []
 date: 2019-08-01
 
@@ -15,9 +18,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: "Left"
-  preview_only: true
+  caption: Modulate Circadian Rhythms on Transcription Networks
+  focal_point: Smart
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
