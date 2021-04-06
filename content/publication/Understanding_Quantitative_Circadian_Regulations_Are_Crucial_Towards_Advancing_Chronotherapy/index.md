@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Understanding Quantitative Circadian Regulations Are Crucial Towards Advancing Chronotherapy"
-authors: [Debajyoti Chowdhury*, Chao Wang*, Aiping Lyu, Hailong Zhu]
+authors: [Debajyoti Chowdhury*, Chao Wang*, Aiping Lu, Hailong Zhu]
 date: 2019-08-13
 doi: "10.3390/cells8080883"
 
