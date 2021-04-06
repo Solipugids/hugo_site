@@ -3,7 +3,7 @@
 
 title: "An integrative method to decode regulatory logics in gene transcription"
 authors: [Bin Yan*, Daogang Guan*, Chao Wang, Junwen Wang, Bing He, Jing Qin, Kenneth R. Boheler, Aiping Lu, Ge Zhang, Hailong Zhu]
-date: 2015-05-19
+date: 2017-10-19
 doi: "10.1038/s41467-017-01193-0"
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
