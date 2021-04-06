@@ -2,11 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Development of predictive QSAR models on the phosphopeptide binding affinity against 14-3-3 isoforms"
-summary: ""
+summary: "14-3-3s present in a multiple-isoforms fashion in mammalian cells and are involved in mediating manysignal transduction activities by binding to the phosphorylated ligands. It is also demonstrated that14-3-3s act as a key factor in inducing chemoresistance of tumorigenesis from the current findings.Thus, 14-3-3s are regarded as a novel candidate for biomarker development and cancer therapy. Inthis work, we developed the predictive models that can determine the binding affinity of the phos-phopeptide fragments against 14-3-3s by the computational methods."
 authors: [Chao Wang]
-tags: []
+tags: 
+- 14-3-3s
+- QSAR
+- peptide affinity
 categories: []
-date: 2019-03-01
+date: 2020-04-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,8 +18,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "The performance of the affinity prediction"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
